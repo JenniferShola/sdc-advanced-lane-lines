@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 
 Important files:
 ---
-All files marked as `P4` so `P4.ipynb` and `P4.html` are project solution files and can be open through the normal means.
+All files marked as `P4` (`P4.ipynb` and `P4.html`) are project solution files and can be open through the normal means.
 
 To read through the solution (without downloading the project and running python), please visit `P4.md`.
 

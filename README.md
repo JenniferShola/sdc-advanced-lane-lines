@@ -4,7 +4,7 @@
 
 Hello! This is the writeup for my Advanced Lane Finding project. In this project, I wrote a software pipeline to identify the lane boundaries in a video, but the main output I created is a detailed writeup of the project. 
 
-**Check out the [writeup](https://github.com/udacity/CarND-Advanced-Lane-Lines/blob/master/P4.md) for this project and use it as a starting point for understanding the process I used for detecting lane lines.**
+**Check out the [writeup](https://github.com/JenniferShola/sdc-advanced-lane-lines/blob/master/P4.md) for this project and use it as a starting point for understanding the process I used for detecting lane lines.**
 
 The Project
 ---
